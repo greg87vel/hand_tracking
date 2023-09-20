@@ -1,0 +1,26 @@
+0: cv2.CAP_PROP_POS_MSEC - Posizione corrente in millisecondi nel video.
+1: cv2.CAP_PROP_POS_FRAMES - Numero di fotogrammi attualmente letti.
+2: cv2.CAP_PROP_POS_AVI_RATIO - Rapporto tra la posizione corrente e la durata totale del video (disponibile solo per i file AVI).
+3: cv2.CAP_PROP_FRAME_WIDTH - Larghezza dei fotogrammi acquisiti.
+4: cv2.CAP_PROP_FRAME_HEIGHT - Altezza dei fotogrammi acquisiti.
+5: cv2.CAP_PROP_FPS - Frequenza dei fotogrammi al secondo (frames per second, FPS) del video.
+6: cv2.CAP_PROP_FOURCC - Codice FourCC del codec video (formato di compressione) utilizzato.
+7: cv2.CAP_PROP_FRAME_COUNT - Numero totale di fotogrammi nel video.
+8: cv2.CAP_PROP_FORMAT - Formato del video.
+9: cv2.CAP_PROP_MODE - Modalità di cattura (ad esempio, modalità di acquisizione fotocamera).
+10: cv2.CAP_PROP_BRIGHTNESS - Luminosità dell'immagine.
+11: cv2.CAP_PROP_CONTRAST - Contrasto dell'immagine.
+12: cv2.CAP_PROP_SATURATION - Saturazione del colore dell'immagine.
+13: cv2.CAP_PROP_HUE - Tonalità dell'immagine (applicabile solo a telecamere che supportano questa funzione).
+14: cv2.CAP_PROP_GAIN - Guadagno dell'immagine (applicabile solo a telecamere che supportano questa funzione).
+15: cv2.CAP_PROP_EXPOSURE - Esposizione dell'immagine (applicabile solo a telecamere che supportano questa funzione).
+16: cv2.CAP_PROP_CONVERT_RGB - Se il video viene convertito automaticamente in formato RGB (1 se vero, 0 se falso).
+17: cv2.CAP_PROP_WHITE_BALANCE_U - Bilanciamento del bianco U (applicabile solo a telecamere che supportano questa funzione).
+18: cv2.CAP_PROP_WHITE_BALANCE_V - Bilanciamento del bianco V (applicabile solo a telecamere che supportano questa funzione).
+19: cv2.CAP_PROP_RECTIFICATION - Se la correzione di distorsione dell'obiettivo è abilitata (1 se vero, 0 se falso).
+20: cv2.CAP_PROP_MONOCHROME - Se il video è in scala di grigi (1 se vero, 0 se falso).
+21: cv2.CAP_PROP_SHARPNESS - Nitidezza dell'immagine.
+22: cv2.CAP_PROP_AUTOFOCUS - Se l'autofocus è abilitato (1 se vero, 0 se falso).
+23: cv2.CAP_PROP_ZOOM - Livello di zoom dell'immagine (applicabile solo a telecamere che supportano questa funzione).
+24: cv2.CAP_PROP_FOCUS - Distanza focale dell'obiettivo (applicabile solo a telecamere che supportano questa funzione).
+25: cv2.CAP_PROP_GUID - GUID (identificatore unico globale) della telecamera (applicabile solo a telecamere che supportano questa funzione).
